@@ -2,6 +2,9 @@
 id: about
 title: About
 ---
+I can just do this later
+
+I am following this session at vGHC 2020!!
 
 You can start your "About" page with an elevator pitch, one or two
 sentences about you! The rest of this page page can
@@ -24,6 +27,8 @@ Grace Hopper Celebration Attendee
 ## Recognition
 
 - 2020 Awesome Woman in Technology Award
+
+## More stuff
 
 ## Social Media
 
